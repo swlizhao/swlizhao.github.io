@@ -10,6 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+##
+[我的第一篇文章](personal-resume.md)
 
 # Header 1
 ## Header 2
@@ -20,7 +22,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-[我的第一篇文章](personal-resume.md)
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
